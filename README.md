@@ -5,8 +5,8 @@ MSP430 + 指紋模組的專題筆記，
 紀錄人：`ZiLin`  
 
 > # 快速導覽
-> [基礎腳位設定](https://github.com/as2648as/MSP430-and-FPS#基礎腳位設定)  
-> [UART設定](https://github.com/as2648as/MSP430-and-FPS#UART設定)  
+> [基礎腳位設定](https://github.com/as2648as/MSP430-and-FPS#%E8%BC%B8%E5%85%A5%E6%9A%AB%E5%AD%98%E5%99%A8-pxin)  
+> [UART 設定](https://github.com/as2648as/MSP430-and-FPS#UART%20%E8%A8%AD%E5%AE%9A)  
 > 
 
 <br>
@@ -56,7 +56,7 @@ MSP430 + 指紋模組的專題筆記，
 
 <br>
 
-# UART設定  
+# UART 設定  
 ## UART 連接腳位  
 > |     -     |    0 |    1 |    2 |     3 |  
 > |:---------:| ----:| ----:| ----:| -----:|  
